@@ -1,0 +1,15 @@
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.csproj.AssemblyReference.cache
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.AssemblyInfoInputs.cache
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.AssemblyInfo.cs
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso Balta.io\C#\aula1\bin\Debug\net6.0\aula1.exe
+C:\Cursos\Curso Balta.io\C#\aula1\bin\Debug\net6.0\aula1.deps.json
+C:\Cursos\Curso Balta.io\C#\aula1\bin\Debug\net6.0\aula1.runtimeconfig.json
+C:\Cursos\Curso Balta.io\C#\aula1\bin\Debug\net6.0\aula1.dll
+C:\Cursos\Curso Balta.io\C#\aula1\bin\Debug\net6.0\aula1.pdb
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.dll
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\refint\aula1.dll
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.pdb
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\aula1.genruntimeconfig.cache
+C:\Cursos\Curso Balta.io\C#\aula1\obj\Debug\net6.0\ref\aula1.dll

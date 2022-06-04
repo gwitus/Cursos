@@ -1,0 +1,120 @@
+Namespaces
+
+==> Serve pra ter um divisião lógica
+- Namespaces costumam acompanhar o nome da pasta;
+- Não pode ter 2 classes com o mesmo nome dentro do mesmo Namespace;
+- Dentro do mesmo diretório se houverem dois arquivos c# diferente na mesma pasta
+mas que as namespaces tiverem o mesmo nome vai dar erro. Será ncessário criar uma pasta nova.
+- O ideal é ter apenas um namespace e uma classe por arquivo;
+- É possível nomear namespaces com o mesmo nome
+- É possível criar quantos quiser
+- Sem traço ou espaço ou caracteres especiais
+- Pode usar .;
+- No mesmo diretório, como é possível criar outro arquivo com outros namespaces por fora,
+pra linkar no principal é só usar um using e o nome desse namespace. Mesma lógica de linkar o css no html,
+mas utilizando using e o nome do namespace;
+
+
+Using
+
+==> Segue a mesma lógica do import
+- Define as bibliotecas que serão utilizadas;
+- Por padrão o básico vem incluido, mas por boa prática sempre utilize;
+- Inclui tudo quanto necessário;
+- Ajuda manter organizado;
+- Também importa namespaces;
+
+Variáveis
+
+==> Mesmo principio comum, ocupa um espaço de memória que contém uma informação não fixa
+- Uso identico ao do C;
+- Não criar var com o mesmo nome do tipo;
+- Dá para declarar uma var alguma coisa, mas tem que ter valor. É parecido com let;
+- Utilizar nomes coesos;
+- A primeira letra das palavras sempres serão minusculas;
+- É legal utilizar var;
+
+Constante
+
+==> Ao contrário da var, não dá para trocar o valor
+
+- Uma vez criada é obrigatório colocar um valor;
+- Não se modificam;
+- Mais otimizadas;
+- Recomendadas para uso frequentes;
+- Constantes sempre em nome maisculo, boa prática;
+- Se não atribuir valor fica 0 por padrão;
+
+Keywords
+==> Palavras que não podemos utilizarpara nomear variaveis;
+- Tabela online, geralmente nomes que já tenham significado como Null, var, int e etc.
+- Csharp keywords no Google para verificar;
+- Build e Vscode costumam avisar;
+
+Comentários
+==> comentarios de códigos
+- // Comentário normal;
+- /**/ Também funciona;
+- /// Anotação XML ou metadatas, geralmente usado para anotações de códigos geração de pacotes;
+
+
+System
+==> Tudo deriva do System, é a base do .NET
+
+Byte
+==> O tipo byte representa um byte;
+- Sbyte aceita um byte negativo;
+- byte = 8 bits (0 - 255);
+- sbyte = 8 bits (-125 a 127);
+- Dá para declarar um byte;
+
+Tipagem
+==> Inteiros
+- Existe o short, int e long, ushort, uint e ulong;
+- short (16 bits) para pequenos;
+- int (32bit) para comuns;
+- long(64bits) para gigantes;
+- Um tipo ocupa a mesma quantidade de número que seu espelho começando com u, a diferença é que o comum aceita numeros negativos e o reflexo não aceita negativos mas dobra a capacidade nos naturais;
+
+==> Reais
+- Existe o tipo float, double e decimal;
+- Não possuem tipos começados em u;
+- Float para número pequenos;
+- Double para numeros grandes;
+- Decimal para números colossais;
+- Como a formatação padrão de var real é o double, será necessário colocar um f ou um m se for float ou decimal;
+
+==> Boolean (bool)
+- Existe true ou false;
+- Lógica booleana;
+
+==> Caracter
+- Existe somente o tipo char;
+- Cabe qualquer letra;
+- Representada por '' (aspas simples);
+
+==> String
+- Existe o tipo string;
+- Uma cadeia de caracteres;
+- Representado por aspas duplas;
+- A string pode ter qualquer tamanho, o que significa que é possível escrever uma redação dentro;
+- Fazer curso sobre, tem como fazer macetes com strings;
+
+==> Var
+- Existe o tipo var;
+- O var é um tipo variavel;
+- Dá pra declarar qualquer coisa em var;
+- Depois que definido o tipo de um var, não dá para mudar o tipo dele;
+
+
+==> Object
+- Existe o tipo object;
+- Pode receber qualquer coisa assim como o var;
+- A desvantagem é que ele não associais os tipos corretamentes, somente o valor;
+- A vantagem são inputs em que o programador não sabe qual será o input;
+
+
+Anotações-gerais:
+- Durante a execução, todos os arquivos do C# serão unificados;
+- A divisão se perderá;
+- Sobrará apenas os Namespaces;
