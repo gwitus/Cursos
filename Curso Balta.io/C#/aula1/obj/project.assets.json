@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Curso Balta.io\\C#\\aula1\\aula1.csproj",
+      "projectUniqueName": ,
       "projectName": "aula1",
-      "projectPath": "C:\\Cursos\\Curso Balta.io\\C#\\aula1\\aula1.csproj",
+      "projectPath": 
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
       "outputPath": "C:\\Cursos\\Curso Balta.io\\C#\\aula1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+       
       }
     }
   }
