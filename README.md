@@ -1,8 +1,8 @@
 # Cursos
 Olá, caro visitante! Nesse repositório conforme for realizando cursos, irei upar os conteúdos e anotações dos estudos nos mesmos.
 
-<div allign = "center">
-    Alguns pontos importantes:
+<div align = "center">
+    //_Alguns pontos importantes_\\
 </div>
 
 - Esse repositório sempre sofrerá atualizações, ou seja, posso ter commitado algo incompleto por puro versionamento de software e não ter upado o resto. Não deixo projetos inacabados, em algum momento vou postar o que falta;
@@ -11,4 +11,4 @@ Olá, caro visitante! Nesse repositório conforme for realizando cursos, irei up
 
 - Não necessariamente esse repositório vai conter cursos de linguagens de programação e/ ou frameworks como algo restrito, nesse repositório podem haver pastas com cursos GIT, Inglês, Soft Skills e demais coisas cujo GITHUB não reconhece como linguagem; 
 
--> Para acessar os cursos, é necessário somente acessar os respectivos diretórios com os parâmetros desejados;
+📄 Para acessar os cursos, é necessário somente acessar os respectivos diretórios com os parâmetros desejados;
