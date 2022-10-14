@@ -1,0 +1,5 @@
+C:\Repositórios\Cursos\AspNet\obj\Debug\net6.0\AspNet.csproj.AssemblyReference.cache
+C:\Repositórios\Cursos\AspNet\obj\Debug\net6.0\AspNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\Cursos\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfoInputs.cache
+C:\Repositórios\Cursos\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfo.cs
+C:\Repositórios\Cursos\AspNet\obj\Debug\net6.0\AspNet.csproj.CoreCompileInputs.cache
