@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositórios\\Cursos\\AspNet\\AspNet.csproj": {}
+    "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj": {}
   },
   "projects": {
-    "C:\\Repositórios\\Cursos\\AspNet\\AspNet.csproj": {
+    "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositórios\\Cursos\\AspNet\\AspNet.csproj",
-        "projectName": "AspNet",
-        "projectPath": "C:\\Repositórios\\Cursos\\AspNet\\AspNet.csproj",
+        "projectUniqueName": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj",
+        "projectName": "Servidor",
+        "projectPath": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositórios\\Cursos\\AspNet\\obj\\",
+        "outputPath": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
