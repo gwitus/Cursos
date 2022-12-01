@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Curso Balta.io/C#/aula2/aula2.csproj",
+                "${workspaceFolder}/Externos/Curso Balta.io/C#/aula2/aula2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Curso Balta.io/C#/aula2/aula2.csproj",
+                "${workspaceFolder}/Externos/Curso Balta.io/C#/aula2/aula2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Curso Balta.io/C#/aula2/aula2.csproj"
+                "${workspaceFolder}/Externos/Curso Balta.io/C#/aula2/aula2.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

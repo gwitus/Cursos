@@ -1,0 +1,28 @@
+Criar um banco com as opções padrões:
+
+CREATE DATABASE banco_teste; -> Onde, <comando> <tipo> <nome da bagaça>
+
+A opção de cima carrega as seguintes configurações padrões:
+
+CRETE DATABASE banco_teste
+WITH
+owner = gwitus (proprietário)
+ENCODING = "UTF8" (Tipo de formatação)
+*LC_COLLATE = 'pt_BR.UTF-8' ''
+*LC_CTYPE = 'pt_BR.UTF-8'   ''
+TABLESPACE = pg_default ()
+CONNECTION LIMIT = -1; (Conexões simultaneas permitidas no banco) (O valor -1 é para deixar ilimitado)
+
+
+- Como no WSL estamos mexendo com um sistema integrado, algumas coisas mudam;
+
+*Sempre que mexer no wsl, lembre-se de:
+
++sudo service postgresql status para verificar o status do banco de dados.
++sudo service postgresql start para começar a executar seu banco de dados.
++sudo service postgresql stop para interromper a execução do banco de dados.
+
+RESUMO - Para executar o PostgreSQL com o shell psql :
+
++ Inicie o serviço Postgres: sudo service postgresql start;
++ Conecte-se ao serviço Postgres e abra o shell do psql: sudo -u postgres psql;
