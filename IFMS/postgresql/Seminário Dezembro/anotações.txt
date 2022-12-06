@@ -26,3 +26,7 @@ RESUMO - Para executar o PostgreSQL com o shell psql :
 
 + Inicie o serviço Postgres: sudo service postgresql start;
 + Conecte-se ao serviço Postgres e abra o shell do psql: sudo -u postgres psql;
+
+Já no banco:
+    -  O auto_increment atribui valor à PK que escolhermos automaticamente p/ poupar tempo;
+    
