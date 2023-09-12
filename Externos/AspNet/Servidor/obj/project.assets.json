@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj",
+      "projectUniqueName": "C:\\Git\\Cursos\\Externos\\AspNet\\Servidor\\Servidor.csproj",
       "projectName": "Servidor",
-      "projectPath": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\Servidor.csproj",
+      "projectPath": "C:\\Git\\Cursos\\Externos\\AspNet\\Servidor\\Servidor.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositórios\\Cursos\\AspNet\\Servidor\\obj\\",
+      "outputPath": "C:\\Git\\Cursos\\Externos\\AspNet\\Servidor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

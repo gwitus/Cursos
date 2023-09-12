@@ -1,0 +1,15 @@
+C:\Git\Cursos\Externos\AspNet\Servidor\bin\Debug\net6.0\Servidor.exe
+C:\Git\Cursos\Externos\AspNet\Servidor\bin\Debug\net6.0\Servidor.deps.json
+C:\Git\Cursos\Externos\AspNet\Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+C:\Git\Cursos\Externos\AspNet\Servidor\bin\Debug\net6.0\Servidor.dll
+C:\Git\Cursos\Externos\AspNet\Servidor\bin\Debug\net6.0\Servidor.pdb
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.dll
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\refint\Servidor.dll
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.pdb
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+C:\Git\Cursos\Externos\AspNet\Servidor\obj\Debug\net6.0\ref\Servidor.dll
