@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Igp8bjCABQrgrwyv8QkUjs1/Ef93rieQu2Z3LzwVmK0f102gMSemEG3PF6otOCNycLzSykauVbv2x0NySh1fLQ==",
+  "dgSpecHash": "Hf34xPd3wNBuFIZG4oc2sKKLk84X4HOl41r8YZVOfeBE5EXYqgT8149xw33kHsHZrAz5yrtrtUuMg8+aIKNiCA==",
   "success": true,
-  "projectFilePath": 
+  "projectFilePath": "c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\aula1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\obj\\project.nuget.cache: After parsing a value an unexpected character was encountered: :. Path 'projectFilePath', line 6, position 24."
+    }
+  ]
 }

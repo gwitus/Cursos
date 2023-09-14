@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": ,
+      "projectUniqueName": "c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\aula1.csproj",
       "projectName": "aula1",
-      "projectPath": 
+      "projectPath": "c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\aula1.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Curso Balta.io\\C#\\aula1\\obj\\",
+      "outputPath": "c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,8 +59,16 @@
             "privateAssets": "all"
           }
         },
-       
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache c:\\Git\\Cursos\\Externos\\Curso Balta.io\\C#\\aula1\\obj\\project.nuget.cache: After parsing a value an unexpected character was encountered: :. Path 'projectFilePath', line 6, position 24."
+    }
+  ]
 }
