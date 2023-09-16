@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Git\\Cursos\\Externos\\.NET\\primeiro projeto\\Git.csproj": {}
+    "C:\\Git\\Cursos\\Externos\\.NET\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Git\\Cursos\\Externos\\.NET\\primeiro projeto\\Git.csproj": {
+    "C:\\Git\\Cursos\\Externos\\.NET\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Git\\Cursos\\Externos\\.NET\\primeiro projeto\\Git.csproj",
-        "projectName": "Git",
-        "projectPath": "c:\\Git\\Cursos\\Externos\\.NET\\primeiro projeto\\Git.csproj",
+        "projectUniqueName": "C:\\Git\\Cursos\\Externos\\.NET\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\Git\\Cursos\\Externos\\.NET\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "c:\\Git\\Cursos\\Externos\\.NET\\primeiro projeto\\obj\\",
+        "outputPath": "C:\\Git\\Cursos\\Externos\\.NET\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config"

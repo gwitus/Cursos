@@ -35,11 +35,15 @@ namespace PrincipalManager {
             //++++++++++Foreach para percorrer+++++++++++++\\
             numeros.Add(10);
             numeros.Add(20);
-
+            // RemoveAT remove pelo indice
+            numeros.RemoveAt(1);
+            // o Remove encontra um numero igual ao colocado no parentese e retira
+            numeros.Remove(10);
             foreach (var i in numeros)
             {
                 Console.WriteLine(i);
             }
+            
             
         }
 

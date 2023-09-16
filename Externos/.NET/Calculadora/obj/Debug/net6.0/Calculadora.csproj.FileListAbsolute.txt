@@ -1,0 +1,15 @@
+C:\Git\Cursos\Externos\.NET\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Git\Cursos\Externos\.NET\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Git\Cursos\Externos\.NET\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Git\Cursos\Externos\.NET\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Git\Cursos\Externos\.NET\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Git\Cursos\Externos\.NET\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
