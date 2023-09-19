@@ -1,0 +1,66 @@
+//Vale lembrar que eu já sei e já trabalho com Git, mas para fim de uma dinamica de acordo ao curso - sigamos conforme anotações do professor
+
+Comandos GIT padrões
+
+git init: Inicializa um novo repositório Git em um diretório.
+
+git clone <URL>: Clona um repositório remoto para o seu computador.
+
+git add <arquivo>: Adiciona um arquivo ao índice (staging area) para ser preparado para commit.
+
+git commit -m "<mensagem>": Cria um novo commit com as alterações no índice e uma mensagem descritiva.
+
+git status: Mostra o status atual do repositório, incluindo os arquivos modificados, adicionados e pendentes de commit.
+
+git log: Exibe um histórico de commits.
+
+git branch: Lista todas as branches no repositório e destaca a branch atual.
+
+git checkout <branch>: Muda para outra branch.
+
+git checkout -b <nova-branch>: Cria e muda para uma nova branch.
+
+git merge <outra-branch>: Mescla uma branch com a branch atual.
+
+git pull: Atualiza seu repositório local com as alterações do repositório remoto.
+
+git push: Envia as alterações locais para o repositório remoto.
+
+git remote -v: Lista os repositórios remotos vinculados.
+
+git diff: Mostra as diferenças entre os arquivos não confirmados e a última versão confirmada.
+
+git reset: Desfaz alterações no índice.
+
+git stash: Armazena temporariamente as mudanças locais sem fazer commit.
+
+git fetch: Baixa informações sobre os commits do repositório remoto.
+
+git remote add <nome> <URL>: Adiciona um novo repositório remoto.
+
+git rm <arquivo>: Remove um arquivo do controle de versão e o índice.
+
+git mv <arquivo-original> <novo-arquivo>: Renomeia ou move um arquivo no repositório.
+
+git tag: Lista as tags (versões) criadas.
+
+git show <tag>: Mostra informações sobre uma tag específica.
+
+git cherry-pick <commit>: Aplica um commit específico de outra branch à branch atual.
+
+git rebase: Reorganiza os commits da branch atual para estar em cima da última versão da branch de destino.
+
+git log --graph: Exibe o histórico de commits em forma de gráfico.
+
+git blame <arquivo>: Mostra quem modificou cada linha de um arquivo.
+
+git config: Configuração do Git, como nome de usuário e email.
+
+git remote rm <nome>: Remove um repositório remoto.
+
+git clean -n: Mostra os arquivos que seriam removidos com git clean -f.
+
+git reset --hard HEAD: Reverte todo o diretório de trabalho para o estado do último commit.
+
+
+

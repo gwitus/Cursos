@@ -1,0 +1,21 @@
+// Abraços AkitaOnRails
+
+O Git é um sistema de controle de versão distribuído amplamente usado que foi criado por Linus Torvalds em 2005. Ele foi desenvolvido principalmente para gerenciar o código-fonte do kernel do Linux, mas rapidamente se tornou uma ferramenta popular em todo o mundo para rastrear mudanças em projetos de software.
+
+A história do Git pode ser resumida em alguns marcos importantes:
+
+Motivação Inicial: Antes do Git, a equipe de desenvolvimento do kernel do Linux usava uma ferramenta chamada BitKeeper para controlar as versões do código-fonte. No entanto, em 2005, houve uma reviravolta nas relações com a BitKeeper, e a comunidade do Linux precisou de uma alternativa.
+
+Desenvolvimento do Git: Linus Torvalds, o criador do Linux, decidiu criar sua própria ferramenta de controle de versão. Ele começou a trabalhar no Git em abril de 2005 e, em apenas algumas semanas, tinha uma versão funcional do sistema.
+
+Lançamento do Git: O Git foi anunciado ao público em 6 de abril de 2005. Ele se tornou a ferramenta de controle de versão padrão para o desenvolvimento do kernel do Linux.
+
+Distribuição e Popularidade: O Git se destacou por sua capacidade de ser distribuído e por sua velocidade. Ele logo se espalhou para outros projetos de código aberto e empresas, tornando-se um dos sistemas de controle de versão mais populares do mundo.
+
+Hospedagem de Código: Plataformas de hospedagem de código como o GitHub (fundado em 2008), GitLab e Bitbucket ajudaram a impulsionar a popularidade do Git ao facilitar o compartilhamento e a colaboração em projetos.
+
+Desenvolvimento Constante: O Git tem sido constantemente desenvolvido e aprimorado ao longo dos anos. Novos recursos, comandos e extensões foram adicionados para atender às crescentes demandas de desenvolvedores.
+
+Domínio em Controle de Versão: Hoje, o Git é amplamente adotado na comunidade de desenvolvimento de software. É usado em projetos de código aberto, empresas de todos os tamanhos e é uma habilidade essencial para muitos desenvolvedores.
+
+O Git é conhecido por sua capacidade de rastrear alterações em código-fonte de forma eficiente, possibilitar a colaboração entre equipes de desenvolvimento distribuídas e facilitar o gerenciamento de versões de projetos de software. É uma ferramenta fundamental no desenvolvimento moderno de software
