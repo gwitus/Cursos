@@ -1,0 +1,15 @@
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\bin\Debug\net6.0\ListaTelefonica.exe
+c:\Git\Cursos\Externos\.NET\ListaTelefonica\bin\Debug\net6.0\ListaTelefonica.deps.json
+c:\Git\Cursos\Externos\.NET\ListaTelefonica\bin\Debug\net6.0\ListaTelefonica.runtimeconfig.json
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\bin\Debug\net6.0\ListaTelefonica.dll
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\bin\Debug\net6.0\ListaTelefonica.pdb
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.csproj.AssemblyReference.cache
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.AssemblyInfoInputs.cache
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.AssemblyInfo.cs
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.csproj.CoreCompileInputs.cache
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.dll
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\refint\ListaTelefonica.dll
+C:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.pdb
+c:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ListaTelefonica.genruntimeconfig.cache
+c:\Git\Cursos\Externos\.NET\ListaTelefonica\obj\Debug\net6.0\ref\ListaTelefonica.dll

@@ -1,0 +1,15 @@
+C:\Git\Cursos\Externos\.NET\anotacao\bin\Debug\net6.0\anotacao.exe
+C:\Git\Cursos\Externos\.NET\anotacao\bin\Debug\net6.0\anotacao.deps.json
+C:\Git\Cursos\Externos\.NET\anotacao\bin\Debug\net6.0\anotacao.runtimeconfig.json
+C:\Git\Cursos\Externos\.NET\anotacao\bin\Debug\net6.0\anotacao.dll
+C:\Git\Cursos\Externos\.NET\anotacao\bin\Debug\net6.0\anotacao.pdb
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.csproj.AssemblyReference.cache
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.AssemblyInfoInputs.cache
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.AssemblyInfo.cs
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.csproj.CoreCompileInputs.cache
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.dll
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\refint\anotacao.dll
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.pdb
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\anotacao.genruntimeconfig.cache
+C:\Git\Cursos\Externos\.NET\anotacao\obj\Debug\net6.0\ref\anotacao.dll
