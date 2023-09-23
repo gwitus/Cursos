@@ -1,0 +1,25 @@
+@* Uma razor page, sempre começa com um page *@
+@page
+
+@* MyRazorApps é a namespace, Pages é a pasta, Index é a classe Model no outro arquivo*@
+@model aspNet.Pages.index
+@{
+    ViewData["Title"] = "index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    @* 
+    SEMPRE QUE EU QUISER COLOCAR ALGUM CÓDIGO CSHARP DENTRO DO HTML
+    PRESCISO UTILIZAR UM @ ANTES, MEIO PARECIDO COM A LÓGICA DO FLASK 
+    *@
+
+    <h2>
+        @for (var i = 0; i <= 10; i++){
+            <h2>Número @i</h2>
+        }
+
+        
+    </>
+</div>

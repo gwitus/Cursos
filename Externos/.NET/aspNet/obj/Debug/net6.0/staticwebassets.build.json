@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9i+VhSPmk4aiQHMxxSW9uNTq/gzqKDFPfGQB7pBR5KA=",
+  "Source": "aspNet",
+  "BasePath": "_content/aspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "aspNet\\wwwroot",
+      "Source": "aspNet",
+      "ContentRoot": "c:\\Git\\GitHub\\Cursos\\Externos\\.NET\\aspNet\\wwwroot\\",
+      "BasePath": "_content/aspNet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
