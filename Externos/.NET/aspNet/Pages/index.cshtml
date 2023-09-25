@@ -1,4 +1,13 @@
-@* Uma razor page, sempre começa com um page *@
+@* 
+    Uma razor page, sempre começa com um page
+*@
+
+@* 
+    Posso configurar quantas páginas eu quiser 
+   e então desde que todas as pages do Razor estejam dentro do diretório correto
+   será sempre possível realizar a navegação com o endereço raíz/nome do arquivo 
+*@
+
 @page
 
 @* MyRazorApps é a namespace, Pages é a pasta, Index é a classe Model no outro arquivo*@
@@ -16,10 +25,24 @@
     *@
 
     <h2>
+        <!--Forma de chamar o C# dentro do html da razor-->
         @for (var i = 0; i <= 10; i++){
-            <h2>Número @i</h2>
+            <h2>Número @i</h2>   
         }
-
-        
+        @* Quando precisar chamar algo especifico chama o Model *@
     </>
+
+    <table>
+        <th>
+            <td>Item Id</td>
+            <td>Preço</td>
+        </th>
+        <tr>
+            @* Tava dando errado porque eu não tava chamando o model *@
+            @foreach(var Category in Model.Categories){
+                <td>@Category.Id</td>
+                <td>@Category.Price</td>
+            }
+        </tr>
+    </table>
 </div>

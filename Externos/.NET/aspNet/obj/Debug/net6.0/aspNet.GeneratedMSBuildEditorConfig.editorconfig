@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Git\GitHub\Cursos\Externos\.NET\aspNet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/index.cshtml]
+[c:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/shared/_layoutMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hhcmVkXF9sYXlvdXRNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/GitHub/Cursos/Externos/.NET/aspNet/Pages/shared/_viewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hhcmVkXF92aWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
