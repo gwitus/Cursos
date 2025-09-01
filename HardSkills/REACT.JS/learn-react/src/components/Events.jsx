@@ -3,7 +3,7 @@ function Events () {
     function myEvent (){
         alert("Olá, rapaziada!");
     }
-    
+
     return (
         <>
             <h2>clique para ativar o botão!</h2>

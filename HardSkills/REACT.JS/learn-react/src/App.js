@@ -7,13 +7,22 @@ import Item from './components/Item' //praticando setar um tipo e um default par
 
 // aqui estamos mexendo com eventos agora
 import Events from './components/Events';
+import TesteEventos from './components/TesteEventos';
 
 function App() {
+  function alertar (){
+    alert("salve, quebrada!");
+  }
+
   return (
     <div className='App'>
       <Item />
 
       <Events />
+
+      <p></p>
+      {/* props como evento */}
+      <TesteEventos event={alertar} text="clique aqui para saber o evento" /> 
     </div>
   );
 }
