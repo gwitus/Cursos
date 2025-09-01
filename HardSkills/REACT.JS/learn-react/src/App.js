@@ -1,10 +1,20 @@
-// imports
-// importar apenas o que pertence a App.js aqui
+
 import './styles/App.css';
+import InputModel from './components/InputModel'; //Tipo indicado de como usar o props
+import Props from './components/Props'; //aqui eu pratiquei o props no modo como se importa classes
+import InputTy from './components/InputTy' //aqui eu pratiquei fragmentos
+import Item from './components/Item' //praticando setar um tipo e um default para cada componente
+
+// aqui estamos mexendo com eventos agora
+import Events from './components/Events';
 
 function App() {
   return (
-    <div className="App"></div>
+    <div className='App'>
+      <Item />
+
+      <Events />
+    </div>
   );
 }
 
